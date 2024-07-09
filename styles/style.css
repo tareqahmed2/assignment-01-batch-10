@@ -492,6 +492,7 @@ body {
   font-weight: 700;
   text-align: left;
   text-decoration-line: underline;
+  background-color: transparent;
 }
 
 .html-icon-container button a,
