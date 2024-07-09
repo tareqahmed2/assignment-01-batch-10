@@ -101,7 +101,7 @@ body {
   justify-content: flex-start;
   align-items: center;
   padding: 80px 97px 80px 97px;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   margin: 0 auto;
   margin-top: 74px;
   border-radius: 16px;
@@ -118,7 +118,7 @@ body {
   align-items: center;
   padding: 0px;
   margin: 0px 10px;
-  border: 2px solid green;
+  /* border: 2px solid green; */
 }
 
 .why-web-dev-container-1 {
@@ -154,7 +154,7 @@ body {
   height: 336px;
   padding: 48px;
   margin: 32px 0px;
-  border: 5px solid red;
+  /* border: 5px solid red; */
   display: flex;
   align-items: center;
   padding: 48px;
@@ -245,7 +245,7 @@ body {
   height: 336px;
   padding: 48px;
   margin: 32px 0px;
-  border: 5px solid red;
+  /* border: 5px solid red; */
   display: flex;
   align-items: center;
   padding: 48px;
@@ -314,5 +314,4 @@ body {
   color: rgba(85, 89, 99, 1);
 }
 
-.why-web-dev-container-4 {
-}
+/* ends of web-dev desigm */
