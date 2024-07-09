@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+/* banner design start here */
+
+.banner {
+  max-width: 1440px;
+  min-height: 652px;
+  /* border: 2px solid greenyellow; */
+  margin: 0 auto;
+  background-image: url("../assets/Hero-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.banner-container {
+  max-width: 998px;
+  min-height: 582px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0px;
+  /* border: 2px solid red; */
+  margin: 0 auto;
+  /* margin-top: 24px; */
+}
+
+.banner-container img {
+  max-width: 240.28px;
+  min-height: 240px;
+  margin-bottom: 32px;
+  /* border: 2px solid red; */
+}
+
+.banner-container h1 {
+  max-width: 998px;
+  text-align: center;
+  color: rgb(13, 19, 33);
+  margin-bottom: 24px;
+  font-size: 40px;
+  font-weight: 800;
+  font-family: "Azeret Mono", monospace;
+}
+
+.banner-container p {
+  max-width: 852px;
+  min-height: 52px;
+  color: rgb(13, 19, 33);
+  font-family: "Azeret Mono", monospace;
+  opacity: 0.7;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.banner-container button {
+  width: 220px;
+  min-height: 66px;
+  padding: 21px 24px 21px 24px;
+  margin: 0px 0px;
+  border-radius: 8px;
+  background: rgb(13, 19, 33);
+}
+
+.banner-container a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-family: "Azeret Mono", monospace;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+}
