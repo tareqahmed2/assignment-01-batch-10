@@ -55,7 +55,7 @@ body {
   border: 1px solid rgb(13, 19, 33);
   border-radius: 8px;
   opacity: 0.8;
-  max-width: 228px;
+  /* max-width: 228px; */
   min-height: 58px;
   padding: 17px 24px 17px 24px;
 }
@@ -136,7 +136,6 @@ body {
 }
 
 .banner-container button {
-  width: 220px;
   min-height: 66px;
   padding: 21px 24px 21px 24px;
   margin: 0px 0px;
